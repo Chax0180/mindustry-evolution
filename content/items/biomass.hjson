@@ -2,5 +2,5 @@ name: Biomass
 description: "Organic matter. Used for constructiong plant-based machines and for converting into other resources."
 alwaysUnlocked: true
 color: 6aa95e
-research: core-stem
+research: steel-scrap
 hiddenOnPlanets: [serpulo, erekir]
