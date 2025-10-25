@@ -32,12 +32,11 @@ drawer: {
     {
       type: DrawLiquidTile
       drawLiquid: water
-      padding: 3
-      alpha: 0.75
+      padding: 0.5
     }
     {
       type: DrawBubbles
-      color: 6aa95e
+      color: 84f491
     }
     {
       type: DrawDefault
