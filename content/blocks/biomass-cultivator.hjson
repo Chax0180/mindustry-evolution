@@ -1,0 +1,53 @@
+type: GenericCrafter
+name: Biomass Cultivator
+description: Grows biomass, consuming water and nitrate.
+size: 2
+craftTime: 60
+hasLiquids: true
+hasItems: true
+consumes: {
+  liquid: water
+  items: [
+    nitrate/5
+  ]
+}
+itemCapacity: 10
+outputItems: [
+  biomass/1
+  oxygen/0.01
+]
+category: production
+research: core-stem
+researchCostMultiplier: 0.5
+squareSprite: false
+requirements: [
+  steel-scrap/25
+]
+drawer: {
+  type: DrawMulti
+  drawers: [
+    {
+      type: DrawRegion
+      suffix: -bottom
+    }
+    {
+      type: DrawLiquidTile
+      drawLiquid: water
+      padding: 3
+      alpha: 0.75
+    }
+    {
+      type: DrawRegion
+      suffix: -rotator
+      spinSprite: true
+      rotateSpeed: 9
+    }
+    {
+      type: DrawBubbles
+      color: 6aa95e
+    }
+    {
+      type: DrawDefault
+    }
+  ]
+}
