@@ -1,0 +1,15 @@
+type: CoreBlock
+name: Core: Stem
+description: Core of the base. Stores a moderate amount of resources. An alternative should be found soon.
+requirements: [
+item-wood/1000
+]
+isFirstTier: true
+size: 2
+squareSprite: false
+alwaysUnlocked: true
+unitType: poly
+health: 1300
+itemCapacity: 1000
+unitCapModifier: 5
+category: effect
