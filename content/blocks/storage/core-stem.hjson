@@ -1,8 +1,9 @@
 type: CoreBlock
 name: Core: Stem
-description: Core of the base. Stores a moderate amount of resources. An alternative should be found soon.
+description: Core of the base. Stores a moderate amount of resources. An alternative should be found soon. Local wildlife has merged with the machinery.
 requirements: [
-item-wood/1000
+steel-scrap/200
+biomass/100
 ]
 isFirstTier: true
 size: 2
