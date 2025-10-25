@@ -1,0 +1,6 @@
+name: Nitrate
+description: "Clumpy dirt filled with chunks of white, chalky material that is rich in nutrients."
+hardness: 0.5
+color: 8f665b
+research: steel-scrap
+hiddenOnPlanets: [serpulo, erekir]
