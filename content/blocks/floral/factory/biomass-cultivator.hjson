@@ -35,8 +35,10 @@ drawer: {
       padding: 0.5
     }
     {
-      type: DrawBubbles
-      color: 84f491
+      type: DrawCells
+      color: 5fcf88
+      particleColorFrom: 62ae7f
+      particleColorTo: 84f491
     }
     {
       type: DrawDefault
