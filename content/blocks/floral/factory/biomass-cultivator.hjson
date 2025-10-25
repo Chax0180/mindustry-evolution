@@ -39,6 +39,7 @@ drawer: {
       color: 5fcf88
       particleColorFrom: 62ae7f
       particleColorTo: 84f491
+      particles: 24
     }
     {
       type: DrawDefault
