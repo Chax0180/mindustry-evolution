@@ -6,7 +6,7 @@ craftTime: 60
 hasLiquids: true
 hasItems: true
 consumes: {
-  liquid: water
+  liquid: water/0.2
   items: [
     nitrate/5
   ]
