@@ -14,7 +14,6 @@ consumes: {
 itemCapacity: 10
 outputItems: [
   biomass/1
-  oxygen/0.01
 ]
 category: production
 research: core-stem
