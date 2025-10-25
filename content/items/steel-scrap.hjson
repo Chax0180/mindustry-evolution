@@ -1,0 +1,7 @@
+name: Steel Scrap
+description: "Crushed, melted metal. Leftover from some kind of explosion or crash."
+hardness: 1.5
+alwaysUnlocked: true
+color: b2c6d2
+research: core-stem
+hiddenOnPlanets: [serpulo, erekir]
