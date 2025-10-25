@@ -36,17 +36,15 @@ drawer: {
       alpha: 0.75
     }
     {
-      type: DrawRegion
-      suffix: -rotator
-      spinSprite: true
-      rotateSpeed: 9
-    }
-    {
       type: DrawBubbles
       color: 6aa95e
     }
     {
       type: DrawDefault
+    }
+    {
+      type: DrawRegion
+      suffix: -top
     }
   ]
 }
